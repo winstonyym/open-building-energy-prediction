@@ -48,10 +48,11 @@ $ conda activate carbon_demo
 - `building_satellite` (Placeholder folder for building satellite images)
 - `data` (Placeholder folder for city graph objects and edges)
 - `energy_data` (Seattle 2022 Building Energy Benchmarking Data)
-- `notebooks` (Notebooks for generating city graphs, downloading satellite chips [^1], and GNN training [^2].)
+- `notebooks` (Notebooks for generating city graphs, downloading satellite chips [^1], and GNN training [^2][^3].)
 
 [^1]: Please first obtain Mapbox API developer key at: https://docs.mapbox.com/help/getting-started/access-tokens/#how-access-tokens-work.
-[^2]: Complete GNN workflow for Seattle. Supplementary data files are hosted on Figshare: https://doi.org/10.6084/m9.figshare.28188242.v1. While it is possible to use CPU for inference, we recommend using GPU for efficient training and inference. 
+[^2]: Complete GNN workflow for Seattle. Supplementary data files for Seattle are hosted on Figshare: https://doi.org/10.6084/m9.figshare.28188242.v1. While it is possible to use CPU for inference, we recommend using GPU for efficient training and inference. 
+[^3]: Accompanying data files for Melbourne, Washington DC, NYC-Manhattan, and Singapore are available at: https://doi.org/10.6084/m9.figshare.28785077
 
 # Demo
 
