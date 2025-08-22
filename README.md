@@ -65,3 +65,5 @@ If you use Urbanity in your work, please cite:
 Yap, W., Stouffs, R. & Biljecki, F. Urbanity: automated modelling and analysis of multidimensional networks in cities. npj Urban Sustain 3, 45 (2023). https://doi.org/10.1038/s42949-023-00125-w
 
 Yap, W., Biljecki, F. A Global Feature-Rich Network Dataset of Cities and Dashboard for Comprehensive Urban Analyses. Sci Data 10, 667 (2023). https://doi.org/10.1038/s41597-023-02578-1
+
+Yap, W., Wu, A. N., Miller, C., & Biljecki, F. (2025). Revealing building operating carbon dynamics for multiple cities. Nature Sustainability, 1-12. https://doi.org/10.1038/s41893-025-01615-8
